@@ -1,0 +1,14 @@
+* {
+   margin: 0;
+   padding: 0;
+   color: blue;
+}
+
+
+h1 {
+    color: rgb(173, 55, 25);
+    font-size: 100px;
+}
+h1.test {
+    color: burlywood;
+}
